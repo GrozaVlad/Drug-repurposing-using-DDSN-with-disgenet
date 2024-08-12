@@ -1,0 +1,5 @@
+importer_service/node_modules
+.idea
+importer_service/*.db
+importer_service/dump.sql
+importer_service/full_database.xml

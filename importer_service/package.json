@@ -1,0 +1,24 @@
+{
+  "name": "drug-disease-disgenet-paper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrozaVlad/Drug-repurposing-using-DDSN-with-disgenet.git"
+  },
+  "author": "Vlad Mircea Groza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrozaVlad/Drug-repurposing-using-DDSN-with-disgenet/issues"
+  },
+  "homepage": "https://github.com/GrozaVlad/Drug-repurposing-using-DDSN-with-disgenet#readme",
+  "dependencies": {
+    "escape-string-regexp": "^5.0.0",
+    "pg": "^8.12.0",
+    "xml-js": "^1.6.11"
+  }
+}
