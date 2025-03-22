@@ -1,3 +1,6 @@
+## Top down view of the project structure
+![Project Workflow Photo](./assets/drug-gene-disease-general.png)
+
 ### Starting the project ###
 
 1. Clone the repository
