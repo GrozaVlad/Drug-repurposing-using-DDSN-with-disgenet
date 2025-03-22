@@ -20,7 +20,7 @@ import-drugbank:
 
 import-disgenet:
 	@echo "Importing Disgenet data"
-	@cd importer_service && node import_disgenet.js
+	@cd importer_service && node strip_disgenet_dump.js && psql -d postgres://drugbank:drugbank@localhost:5433/drugbank -f output_dump.sql
 
 build-project:
 	@echo "Building project"
