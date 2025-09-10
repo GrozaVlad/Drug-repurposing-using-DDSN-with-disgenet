@@ -1,6 +1,8 @@
-## Literature results ##
+### Literature validation ###
 - The Literature validation file contains one tab per community, named by the community’s dominant ATC level 1 code—also, representing the hinted repositioning property. 
 - For each community, we list drugs that do not have the dominant ATC level 1 and their ATC level 1 according to the DrugBank 5.1.10 XML file. 
 - For drugs written in bold, we present the PubMed link(s) and year of publication for literature supporting the predicted property, and drugs in regular font represent the repositioning hints for that community.
-- For each community/label/tab, the Repositioning hints and predicted targets table lists the top 3 ATC level 4 codes (ranked by frequency within the community) and the DrugBank targets associated with drugs in those ATC level 4 groups. The listed targets, therefore, represent protein gene names that are acted upon by drugs in the dominant ATC level-4 classes and are candidate targets for the repositioning hits in the same community. The top 3 ATC level 4 codes for community 1_N are N05CB, N05CA, and N03AX.
-When two or more ATC level 4 codes tie for second or third rank within a community, we include the target list for each tied code. Hence, a community can have more than three target lists. For example, community 5_D has four lists: D07AC (1st place), D07AB and S01BA (2nd place), and R01AD (3rd place)
+### Repositioning hints and predicted targets ###
+- For each community/label/tab, the Repositioning hints and predicted targets table lists the top 3 ATC level 4 codes (ranked by frequency within the community) and the DrugBank targets associated with drugs in those ATC level 4 groups. For example, the top 3 ATC level 4 codes for community 1_N are N05CB, N05CA, and N03AX.
+- The listed targets, therefore, represent protein gene names that are acted upon by drugs in the dominant ATC level 4 classes and are candidate targets for the repositioning hits in the same community. 
+- When two or more ATC level 4 codes tie for second or third rank within a community, we include the target list for each tied code. Hence, a community can have more than three target lists. For example, community 5_D has four lists: D07AC (1st place), D07AB and S01BA (2nd place), and R01AD (3rd place).
