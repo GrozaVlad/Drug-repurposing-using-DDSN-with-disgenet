@@ -1,0 +1,2 @@
+## Mathematica files ##
+The file "DDSN-DiGe.nb" is the Mathematica notebook, "DDSN-DiGe.pdf" is the notebook saved as pdf for easy visualization, and "dr-di-ge-519.csv" contains the edge list (with the format: source_node, destination_node, edge_weight)
